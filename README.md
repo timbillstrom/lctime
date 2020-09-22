@@ -1,15 +1,12 @@
-# lctime
+# lctime (fork!)
 
 Finally, simple, familiar, locale-based datetime formatting.
 
-[![GoDoc](https://godoc.org/github.com/variadico/lctime?status.svg)](https://godoc.org/github.com/variadico/lctime)
-[![Build Status](https://drone.io/github.com/variadico/lctime/status.png)](https://drone.io/github.com/variadico/lctime/latest)
-[![Coverage Status](https://coveralls.io/repos/variadico/lctime/badge.svg?branch=master&service=github)](https://coveralls.io/github/variadico/lctime?branch=master)
 
 ## Install
 
 ```
-go get -u github.com/variadico/lctime
+go get -u github.com/timbillstrom/lctime
 ```
 
 ## Usage
